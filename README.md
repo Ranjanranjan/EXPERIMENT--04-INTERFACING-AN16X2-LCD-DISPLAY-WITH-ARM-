@@ -123,10 +123,10 @@ Jump to second line, position 2
 
 ## STM 32 CUBE PROGRAM :
 ```
-NAME : SANJAY S
-REG NO : 212222230132
-```
-```
+Roll no.  : 212222230116
+Name      : Ranjan K
+
+
 #include "main.h"
 #include  "lcd.h"
 void SystemClock_Config(void);
